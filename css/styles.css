@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(9, 219, 234, 0.185) ;
+}
+hr{
+   border-color:grey ;
+   border-width: 5px;
+    width: 5%;
+    border-style: dotted none none none;
+}
+
+.circular{
+    border-radius: 45%;
+}
+
+h1{ color: #274d4d;}
+h3{ color: #055656e1;}
+
+.name{ color: #161e16;
+    font-size:  50px;
+     font-family:Cambria, serif;
+
+}
+.yourname {font-size: 14px;
+     font-style:italic ;
+     color: rgba(54, 49, 49, 0.805);
+
+}
+.youremail{font-size: 14px;
+    font-style:italic ;
+    color: rgba(54, 49, 49, 0.805);
+
+}
+.yourmessage{font-size: 14px;
+    font-style:italic ;
+    color: rgba(54, 49, 49, 0.805);
+
+}
+h3{
+    font-style:normal;
+}
